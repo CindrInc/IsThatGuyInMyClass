@@ -1,4 +1,6 @@
-# IsThatGuyInMyClass
+# [IsThatGuyInMyClass](https://isthatguyinmyclass.herokuapp.com)
+https://isthatguyinmyclass.herokuapp.com
+
 Public repo of schedule website
 
 
